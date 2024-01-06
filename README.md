@@ -19,5 +19,5 @@
 
 📱 Instagram: https://www.instagram.com/markjarnaiz/
 
-📘 Facebook: https://www.facebook.com/jsiwwnw.skaianq
+📘 Facebook: https://www.facebook.com/jhonmarkruizarnaiz/
 
