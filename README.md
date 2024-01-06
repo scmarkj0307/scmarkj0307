@@ -1,4 +1,4 @@
-# 🕴️ Hey, I'm Markj!!!
+# 🕴️💼 Hey, I'm Markj!!!
 
 **Coofeeeee while programming.** ☕💻
 
@@ -12,4 +12,12 @@
 | ![React Native](https://img.shields.io/badge/Frontend-React_Native-61DAFB?style=flat&logo=react&logoColor=white) | ![Express.js](https://img.shields.io/badge/Backend-Express.js-000000?style=flat&logo=express&logoColor=white) | ![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  | ![GitHub](https://img.shields.io/badge/VCS-GitHub-181717?style=flat&logo=github&logoColor=white) | ![Java](https://img.shields.io/badge/Programming-Java-007396?style=flat&logo=java&logoColor=white) | ![Postman](https://img.shields.io/badge/Tool-Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
 | ![HTML5](https://img.shields.io/badge/Frontend-HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Backend-Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white) | ![Firebase](https://img.shields.io/badge/Database-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white) | ... | ![Python](https://img.shields.io/badge/Programming-Python-3776AB?style=flat&logo=python&logoColor=white) | ... |
 | ![CSS3](https://img.shields.io/badge/Frontend-CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![ASP.NET](https://img.shields.io/badge/Backend-ASP.NET-512BD4?style=flat&logo=.net&logoColor=white) | ![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | ... | ![C#](https://img.shields.io/badge/Programming-C%23-239120?style=flat&logo=c-sharp&logoColor=white) | . |
+
+# 📞 Contact Me
+
+📧 Email: your.email@example.com
+
+📱 Instagram: [instagram.com/your_instagram](https://www.instagram.com/your_instagram)
+
+📘 Facebook: [facebook.com/your_facebook](https://www.facebook.com/your_facebook)
 
