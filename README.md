@@ -1,6 +1,6 @@
 # 🕴️💼 Hey, I'm Markj!!!
 
-**Coofeeeee while programming.** ☕💻a
+**Coofeeeee while programming.** ☕💻
 
 # ⚙️ My Tech Stack
 
